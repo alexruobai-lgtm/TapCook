@@ -1,0 +1,15 @@
+.DS_Store
+build/
+DerivedData/
+*.xcarchive
+*.ipa
+*.dSYM/
+*.xcuserstate
+xcuserdata/
+*.mobileprovision
+*.p12
+*.pem
+.env
+.env.*
+AppStore/
+Docs/
